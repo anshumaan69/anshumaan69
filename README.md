@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshumaanmishra&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumaanmishra&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshumaan69&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumaan69&theme=radical" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anshumaanmishra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshumaan-mishra-00581a32a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anshumaan.1611@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/anshumaanmishra"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/anshumaan69"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>

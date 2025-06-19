@@ -2,9 +2,8 @@
 <h3 align="center">MERN Developer | B.Tech IT @ KIET</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+MERN+Stack;Cracking+DSA+in+Java;Building+Backend+Projects;Open+to+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Crafting+APIs+with+Node.js;Solving+DSA+in+Java;Always+Learning+%F0%9F%92%BB;Backend+%E2%9D%A4%EF%B8%8F+Clean+Code+%2B+Logic" alt="Typing SVG" />
 </p>
-
 ---
 
 - 🔭 I’m currently working on **Blog API, Heart Monitoring System**

@@ -22,12 +22,16 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">⚡ My GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshumaan69&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumaan69&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshumaan69&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumaan69&theme=radical&hide_border=true&border_radius=20" width="48%" />
+</div>
+
+
+
+
 
 ---
 

@@ -42,3 +42,6 @@
   <a href="mailto:anshumaan.1611@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/anshumaan69"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=anshumaan69&color=blue&style=flat)
+

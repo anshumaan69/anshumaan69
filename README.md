@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Java DSA, MERN Stack**
 - 💬 Ask me about **Backend development, MongoDB, Node.js**
 - 📫 How to reach me: **anshumaan.1611@gmail.com**
-- ⚡ Fun fact: *Chai + Code = ☕💻*
 
 ---
 

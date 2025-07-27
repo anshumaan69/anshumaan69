@@ -6,7 +6,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 IT Student at **KIET GROUP OF INSTITUTIONS**
-- 💼 Currently building an **Inventory & Invoice System** for a medical shop
 - 🌱 Focusing on **TypeScript**, **Next.js**, and **Node.js** ecosystem
 - 💬 Ask me about **React**, **API development**, or **authentication systems**
 - 📍 Based in **Delhi NCR**, India

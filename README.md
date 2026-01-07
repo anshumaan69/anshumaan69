@@ -30,7 +30,7 @@
 ## 📊 My GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshumaan69&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anshumaan69&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumaan69&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -41,14 +41,13 @@
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <!-- Updated Path Below -->
+  <img src="https://raw.githubusercontent.com/anshumaan69/anshumaan69/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumaan69&theme=react-dark" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anshumaan69&theme=react-dark" width="100%" alt="Activity Graph" />
 </div>
-
->
 
 ## 🌱 Current Focus
 
@@ -59,7 +58,7 @@ I'm currently expanding my knowledge in:
 - API security best practices
 - AI integration in web applications
 
-## 📫 Let's Connect
+## 🚀 Let's Connect
 
 Feel free to reach out for collaborations or just a chat!
 

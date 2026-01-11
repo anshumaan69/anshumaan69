@@ -30,7 +30,6 @@
 ## 📊 My GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anshumaan69&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumaan69&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -42,7 +41,7 @@
 
 <div align="center">
   <!-- Updated Path Below -->
-  <img src="https://raw.githubusercontent.com/anshumaan69/anshumaan69/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/anshumaan69/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 <div align="center">

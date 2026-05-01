@@ -39,14 +39,8 @@
   <a href="https://github.com/anshumaan69"><img src="https://github-profile-trophy.vercel.app/?username=anshumaan69&theme=tokyonight&row=2&column=3" alt="Trophy" /></a>
 </div>
 
-<div align="center">
-  <!-- Updated Path Below -->
-  <img src="https://raw.githubusercontent.com/anshumaan69/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</div>
+[![Anshumaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumaan69&theme=react-dark)](https://github.com/anshumaan69)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anshumaan69&theme=react-dark" width="100%" alt="Activity Graph" />
-</div>
 
 ## 🌱 Current Focus
 
